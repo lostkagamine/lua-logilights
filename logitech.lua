@@ -1,7 +1,11 @@
 --[[
+    lua-logilights v1.0
+    by ry00001, 2020
+
     Logitech Lightsync wrapper for LuaJIT/Love2D applications
+    https://github.com/ry00001/lua-logilights
     
-    Created for Oshisaure by ry00001, 2020
+    Created for Oshisaure
 ]]
 
 local logitech = {}

@@ -12,3 +12,8 @@ Call `logitech.setLighting(r, g, b)` to set the *entire device*'s lighting to th
 Call `logitech.shutdown()` to shut the library down. You should always do this.  
 
 Logitech DLL functions can be accessed via `logitech.lib`.
+
+## Credits
+Library by [ry00001](https://github.com/ry00001).  
+Requested by [Oshisaure](https://twitter.com/oshisaure).  
+Used in [Plumino^2](https://github.com/plumino/plumino2).
